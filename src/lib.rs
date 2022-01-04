@@ -15,3 +15,6 @@ pub mod mod_7_reverse_integer;
 
 #[path ="35_search_insert_position.rs"]
 pub mod mod_35_search_insert_position;
+
+#[path ="209_minimum_size_subarray_sum.rs"]
+pub mod mod_209_minimum_size_subarray_sum;
