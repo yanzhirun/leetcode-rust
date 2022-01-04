@@ -12,3 +12,6 @@ pub mod mod_206_reverse_linked_list;
 
 #[path="7_reverse_integer.rs"]
 pub mod mod_7_reverse_integer;
+
+#[path ="35_search_insert_position.rs"]
+pub mod mod_35_search_insert_position;
