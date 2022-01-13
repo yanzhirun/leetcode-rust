@@ -18,3 +18,6 @@ pub mod mod_35_search_insert_position;
 
 #[path ="209_minimum_size_subarray_sum.rs"]
 pub mod mod_209_minimum_size_subarray_sum;
+
+#[path ="59_spiral_matrix2.rs"]
+pub mod mod_59_spiral_matrix2;
