@@ -21,3 +21,6 @@ pub mod mod_209_minimum_size_subarray_sum;
 
 #[path ="59_spiral_matrix2.rs"]
 pub mod mod_59_spiral_matrix2;
+
+#[path ="203_remove_linked_list_elements.rs"]
+pub mod mod_203_remove_linked_list_elements;
