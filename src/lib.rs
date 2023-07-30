@@ -24,3 +24,6 @@ pub mod mod_59_spiral_matrix2;
 
 #[path ="203_remove_linked_list_elements.rs"]
 pub mod mod_203_remove_linked_list_elements;
+
+#[path ="443_string_compression.rs"]
+pub mod mod_443_string_compression;
