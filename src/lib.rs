@@ -27,3 +27,6 @@ pub mod mod_203_remove_linked_list_elements;
 
 #[path ="443_string_compression.rs"]
 pub mod mod_443_string_compression;
+
+#[path ="2215_find_the_difference_of_two_arrays.rs"]
+pub mod mod_2215_find_the_difference_of_two_arrays;
