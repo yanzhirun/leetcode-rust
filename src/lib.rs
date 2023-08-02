@@ -33,3 +33,6 @@ pub mod mod_2215_find_the_difference_of_two_arrays;
 
 #[path = "1657_determine_if_two_strings_are_close.rs"]
 pub mod mod_1657_determine_if_two_strings_are_close;
+
+#[path ="2352_equal_row_and_column_pairs.rs"]
+pub mod mod_2352_equal_row_and_column_pairs;
