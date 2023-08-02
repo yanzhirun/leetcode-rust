@@ -36,3 +36,6 @@ pub mod mod_1657_determine_if_two_strings_are_close;
 
 #[path ="2352_equal_row_and_column_pairs.rs"]
 pub mod mod_2352_equal_row_and_column_pairs;
+
+#[path ="1207_unique_number_of_occurrences.rs"]
+pub mod mod_1207_unique_number_of_occurrences;
