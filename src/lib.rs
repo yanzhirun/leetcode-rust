@@ -48,3 +48,6 @@ pub mod mod_392_is_subsequence;
 
 #[path ="11_container_with_most_water.rs"]
 pub mod mod_11_container_with_most_water;
+
+#[path ="1679_max_number_of_ksum_pairs.rs"]
+pub mod mod_1679_max_number_of_ksum_pairs;
