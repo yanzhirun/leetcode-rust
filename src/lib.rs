@@ -45,3 +45,6 @@ pub mod mod_283_move_zeroes;
 
 #[path ="392_is_subsequence.rs"]
 pub mod mod_392_is_subsequence;
+
+#[path ="11_container_with_most_water.rs"]
+pub mod mod_11_container_with_most_water;
