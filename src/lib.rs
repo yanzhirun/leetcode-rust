@@ -54,3 +54,6 @@ pub mod mod_1679_max_number_of_ksum_pairs;
 
 #[path ="724_find_pivot_index.rs"]
 pub mod mod_724_find_pivot_index;
+
+#[path ="643_maximum_average_subarray_1.rs"]
+pub mod mod_643_maximum_average_subarray_1;
