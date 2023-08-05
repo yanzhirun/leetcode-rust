@@ -39,3 +39,6 @@ pub mod mod_2352_equal_row_and_column_pairs;
 
 #[path ="1207_unique_number_of_occurrences.rs"]
 pub mod mod_1207_unique_number_of_occurrences;
+
+#[path ="283_move_zeroes.rs"]
+pub mod mod_283_move_zeroes;
