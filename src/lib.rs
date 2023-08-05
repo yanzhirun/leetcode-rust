@@ -57,3 +57,6 @@ pub mod mod_724_find_pivot_index;
 
 #[path ="643_maximum_average_subarray_1.rs"]
 pub mod mod_643_maximum_average_subarray_1;
+
+#[path ="1004_max_consecutive_ones_3.rs"]
+pub mod mod_1004_max_consecutive_ones_3;
