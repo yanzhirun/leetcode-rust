@@ -60,3 +60,6 @@ pub mod mod_643_maximum_average_subarray_1;
 
 #[path ="1004_max_consecutive_ones_3.rs"]
 pub mod mod_1004_max_consecutive_ones_3;
+
+#[path ="1493_longest_subarray_of_1s_after_deleting_one_element.rs"]
+pub mod mod_1493_longest_subarray_of_1s_after_deleting_one_element;
