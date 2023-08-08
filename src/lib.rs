@@ -66,3 +66,6 @@ pub mod mod_1493_longest_subarray_of_1s_after_deleting_one_element;
 
 #[path ="2390_removing_stars_from_a_string.rs"]
 pub mod mod_2390_removing_stars_from_a_string;
+
+#[path ="394_decode_string.rs"]
+pub mod mod_394_decode_string;
