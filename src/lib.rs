@@ -69,3 +69,6 @@ pub mod mod_2390_removing_stars_from_a_string;
 
 #[path ="394_decode_string.rs"]
 pub mod mod_394_decode_string;
+
+#[path = "649_dota2_senate.rs"]
+pub mod mod_649_dota2_senate;
