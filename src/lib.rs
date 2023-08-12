@@ -72,3 +72,6 @@ pub mod mod_394_decode_string;
 
 #[path = "649_dota2_senate.rs"]
 pub mod mod_649_dota2_senate;
+
+#[path = "328_odd_even_linked_list.rs"]
+pub mod mod_328_odd_even_linked_list;
