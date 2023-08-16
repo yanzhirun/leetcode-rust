@@ -75,3 +75,6 @@ pub mod mod_649_dota2_senate;
 
 #[path = "328_odd_even_linked_list.rs"]
 pub mod mod_328_odd_even_linked_list;
+
+#[path ="1448_count_good_nodes_in_binary_tree.rs"]
+pub mod mod_1448_count_good_nodes_in_binary_tree;
