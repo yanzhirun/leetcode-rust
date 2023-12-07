@@ -81,3 +81,6 @@ pub mod mod_1448_count_good_nodes_in_binary_tree;
 
 #[path ="199_binary_tree_right_side_view.rs"]
 pub mod mod_199_binary_tree_right_side_view;
+
+#[path ="2300_successful_pairs_of_spells_and_potions.rs"]
+pub mod mod_2300_successful_pairs_of_spells_and_potions;
