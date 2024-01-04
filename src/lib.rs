@@ -84,3 +84,5 @@ pub mod mod_199_binary_tree_right_side_view;
 
 #[path ="2300_successful_pairs_of_spells_and_potions.rs"]
 pub mod mod_2300_successful_pairs_of_spells_and_potions;
+#[path = "347_top_k_frequent_elements.rs"]
+pub mod mod_347_top_k_frequent_elements;
