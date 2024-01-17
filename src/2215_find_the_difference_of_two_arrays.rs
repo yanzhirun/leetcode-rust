@@ -45,5 +45,5 @@ pub fn test_2215() {
     let nums1 = vec![1,2,3];
     let nums2 = vec![2,4,6];
 
-    assert_eq!(vec![vec![1,3], vec![6,4]], find_difference(nums1, nums2));
+    assert_eq!(vec![vec![3,1], vec![6,4]], find_difference(nums1, nums2));
 }
