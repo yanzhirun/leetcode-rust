@@ -92,3 +92,6 @@ pub mod mod_148_sort_list;
 
 #[path ="46_permutation.rs"]
 pub mod mod_46_permutation;
+
+#[path ="77_combinations.rs"]
+pub mod mod_77_combinations;
