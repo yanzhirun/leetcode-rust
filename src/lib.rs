@@ -89,3 +89,6 @@ pub mod mod_347_top_k_frequent_elements;
 
 #[path ="148_sort_list.rs"]
 pub mod mod_148_sort_list;
+
+#[path ="46_permutation.rs"]
+pub mod mod_46_permutation;
