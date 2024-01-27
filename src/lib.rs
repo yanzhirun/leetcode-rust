@@ -98,3 +98,6 @@ pub mod mod_77_combinations;
 
 #[path ="820_short_encoding_of_words.rs"]
 pub mod mod_820_short_encoding_of_words;
+
+#[path ="nk_hj17_zuobiaoyidong.rs"]
+pub mod mod_nk_hj17_zuobiaoyidong;
